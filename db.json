@@ -1,0 +1,207 @@
+[
+    {
+      "id": "62ab8b9d8d89d3140494406a",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "name": "Lizzie Lewis",
+      "gender": "female",
+      "company": "SLAX",
+      "email": "lizzielewis@slax.com",
+      "phone": "+1 (991) 490-3127",
+      "address": "405 Oceanic Avenue, Seymour, Indiana, 1712",
+      "about": "Proident veniam culpa ullamco incididunt nisi consectetur mollit commodo. Dolore sit veniam consectetur eiusmod et. Magna mollit reprehenderit in laboris aliqua. Ullamco commodo aute id fugiat id ullamco Lorem irure consectetur ea cupidatat tempor irure nostrud. Laboris fugiat sunt aliquip esse aliquip laboris laboris consectetur ullamco mollit tempor cupidatat officia. Commodo reprehenderit qui minim Lorem cillum labore duis laboris sit ut.\r\n",
+      "registered": "2017-02-07T08:00:55 -01:00",
+      "latitude": 7.427619,
+      "longitude": -6.430493,
+      "instrument": ["violon", "piano", "guitare", "triangle", "chant"],
+      "tags": [
+        "mollit",
+        "consectetur",
+        "duis",
+        "tempor",
+        "mollit",
+        "pariatur",
+        "aliquip"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Hyde Martinez"
+        },
+        {
+          "id": 1,
+          "name": "Pearl Hobbs"
+        },
+        {
+          "id": 2,
+          "name": "Erika Dudley"
+        }
+      ],
+      "greeting": "Hello, Lizzie Lewis! You have 1 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "62ab8b9d4b1528a9cbb0b176",
+      "picture": "http://placehold.it/32x32",
+      "age": 34,
+      "name": "Rodgers Fernandez",
+      "gender": "male",
+      "company": "PLASMOSIS",
+      "email": "rodgersfernandez@plasmosis.com",
+      "phone": "+1 (985) 536-3484",
+      "address": "738 Bridge Street, Whitestone, Marshall Islands, 4140",
+      "about": "Aliquip fugiat elit velit mollit ut velit culpa excepteur reprehenderit Lorem sint. Aute voluptate irure cillum tempor ullamco culpa veniam magna ex. Lorem enim nisi in laborum voluptate.\r\n",
+      "registered": "2018-09-27T09:46:15 -02:00",
+      "latitude": 34.052097,
+      "longitude": -48.133748,
+      "instrument": ["violon", "chant"]
+      "tags": [
+        "do",
+        "elit",
+        "exercitation",
+        "est",
+        "voluptate",
+        "velit",
+        "est"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Bruce Lawson"
+        },
+        {
+          "id": 1,
+          "name": "Angela Levy"
+        },
+        {
+          "id": 2,
+          "name": "Alberta Kirkland"
+        }
+      ],
+      "greeting": "Hello, Rodgers Fernandez! You have 2 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "62ab8b9d3d100002b78de116",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "name": "Evangeline Whitehead",
+      "gender": "female",
+      "company": "MOTOVATE",
+      "email": "evangelinewhitehead@motovate.com",
+      "phone": "+1 (808) 421-3330",
+      "address": "671 Dewitt Avenue, Darlington, Missouri, 2616",
+      "about": "Sunt laboris pariatur cupidatat ex nostrud deserunt. Nisi excepteur proident labore laboris exercitation ad. Mollit elit aliqua aliqua ut exercitation minim. Ea in enim adipisicing proident incididunt. Tempor voluptate est sunt ut deserunt mollit reprehenderit Lorem officia voluptate ut amet eiusmod. Exercitation est quis magna nostrud anim pariatur eu aliquip cupidatat nulla fugiat exercitation aute.\r\n",
+      "registered": "2015-11-08T10:43:16 -01:00",
+      "latitude": 9.138343,
+      "longitude": 101.467988,
+      "instrument": [ "chant"]
+      "tags": [
+        "quis",
+        "culpa",
+        "nulla",
+        "nisi",
+        "mollit",
+        "nostrud",
+        "aliqua"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Brittany Irwin"
+        },
+        {
+          "id": 1,
+          "name": "Mclaughlin Mcleod"
+        },
+        {
+          "id": 2,
+          "name": "Brittney Chase"
+        }
+      ],
+      "greeting": "Hello, Evangeline Whitehead! You have 2 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": "62ab8b9d3b5558fcc1a6dee3",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "name": "Guthrie Galloway",
+      "gender": "male",
+      "company": "KONNECT",
+      "email": "guthriegalloway@konnect.com",
+      "phone": "+1 (988) 442-3783",
+      "address": "278 Duffield Street, Machias, Georgia, 2163",
+      "about": "Duis amet commodo consectetur ad qui velit officia enim non velit id ipsum eiusmod officia. Mollit consectetur cillum enim adipisicing Lorem. Anim do ipsum qui quis laborum cupidatat irure aliqua. In dolor sunt qui ipsum labore exercitation adipisicing aute amet elit. Exercitation excepteur aliqua qui duis ea aute consequat deserunt ut magna pariatur. Cillum laboris tempor proident aliquip velit minim culpa laborum cupidatat ut enim culpa enim veniam.\r\n",
+      "registered": "2021-06-21T05:14:06 -02:00",
+      "latitude": -68.571468,
+      "longitude": 150.720024,
+      "instrument": ["violon", "triangle"],
+      "tags": [
+        "incididunt",
+        "esse",
+        "ullamco",
+        "minim",
+        "Lorem",
+        "elit",
+        "irure"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Francine Newman"
+        },
+        {
+          "id": 1,
+          "name": "Flora Horn"
+        },
+        {
+          "id": 2,
+          "name": "Stark Blevins"
+        }
+      ],
+      "greeting": "Hello, Guthrie Galloway! You have 9 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "62ab8b9d4e677bb2534da9d6",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "name": "Courtney Avila",
+      "gender": "female",
+      "company": "MAINELAND",
+      "email": "courtneyavila@maineland.com",
+      "phone": "+1 (993) 509-3789",
+      "address": "383 Harrison Avenue, Sanders, Hawaii, 2538",
+      "about": "Cillum eu minim dolore anim. Aliqua do aute laborum consequat ut pariatur amet consequat dolore nulla commodo fugiat proident. Culpa id proident voluptate ea. Laborum anim aute voluptate voluptate pariatur veniam culpa ullamco id. Enim elit laborum culpa enim commodo consectetur cupidatat aliquip elit culpa est. Ut sunt magna sit aute sit anim commodo irure consequat exercitation qui.\r\n",
+      "registered": "2021-03-26T01:45:46 -01:00",
+      "latitude": -52.367852,
+      "longitude": 62.799408,
+      "instrument": [ "guitare", "triangle", "chant"]
+      "tags": [
+        "esse",
+        "culpa",
+        "occaecat",
+        "labore",
+        "id",
+        "ullamco",
+        "ut"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Katrina Rollins"
+        },
+        {
+          "id": 1,
+          "name": "Morse Cleveland"
+        },
+        {
+          "id": 2,
+          "name": "Bonita Pace"
+        }
+      ],
+      "greeting": "Hello, Courtney Avila! You have 8 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
